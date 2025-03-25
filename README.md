@@ -96,11 +96,11 @@ We welcome contributions! Follow these steps:
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](license).
 
 ---
 
 ## 📬 Contact
-✉️ **Email:** anushkeaa@gmail.com / sonisoham91@gmail.com
+✉️ **Email:** [Anushka](anushkeaa@gmail.com) / [Soham](sonisoham91@gmail.com)
  
 
