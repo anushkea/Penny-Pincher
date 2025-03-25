@@ -74,14 +74,10 @@ The mobile application is built using **Flutter** and is hosted on **Firebase**.
 
 ---
 
-## 📸 Screenshots
-| Web Home Page | Web Expense Tracker | Web Loan Calculator |
-|--------------|-------------------|-------------------|
-| ![Home](https://via.placeholder.com/300x600?text=Web+Home) | ![Expense](https://via.placeholder.com/300x600?text=Web+Expense) | ![Loan](https://via.placeholder.com/300x600?text=Web+Loan) |
+## 📸 Working 
 
-| Mobile Home | Mobile Expense Tracker | Mobile Loan Calculator |
-|--------------|-------------------|-------------------|
-| ![Mobile Home](https://via.placeholder.com/300x600?text=Mobile+Home) | ![Mobile Expense](https://via.placeholder.com/300x600?text=Mobile+Expense) | ![Mobile Loan](https://via.placeholder.com/300x600?text=Mobile+Loan) |
+https://github.com/user-attachments/assets/47651b1a-7fc2-46c7-9545-5decb5c54b6a
+
 
 ---
 
