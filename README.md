@@ -1,6 +1,8 @@
-# 📌 Penny Pincher - Money Budgeting Application
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/82efa580-e895-4ffb-977a-b7918c1206e2" alt="Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">
+  <h1 style="display: inline;">Penny Pincher</h1>
+</p>
 
-![Penny Pincher Banner](https://via.placeholder.com/1200x400?text=Penny+Pincher)
 
 ## 🏦 About Penny Pincher
 **Penny Pincher** is a money budgeting application designed to help users track their income and expenses efficiently. It provides a variety of financial tools to make budgeting easier, ensuring you never lose track of your finances.
@@ -99,7 +101,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact
-✉️ **Email:** your-email@example.com  
-🌐 **Website:** [Penny Pincher](https://yourwebsite.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+✉️ **Email:** anushkeaa@gmail.com / sonisoham91@gmail.com
+ 
 
